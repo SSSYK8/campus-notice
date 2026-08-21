@@ -1,1 +1,2 @@
 # campus-notice
+TEST
